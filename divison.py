@@ -1,5 +1,5 @@
 
-# sample io program
+# sample io program....
 if __name__ == "__main__":
     a=int(input())
     b=int(input())
